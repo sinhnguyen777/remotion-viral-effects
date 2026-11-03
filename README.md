@@ -137,7 +137,7 @@ This repository follows the open **[Agent Skills](https://skills.sh)** specifica
 ### 1. Install into your current project
 
 ```bash
-npx skills add <your-github-username>/video-effects
+npx skills add sinhnguyen777/video-effects-viral
 ```
 > *(The CLI will prompt you to choose the target agent environment in your project).*
 
@@ -145,22 +145,22 @@ Or install directly for a specific agent:
 
 ```bash
 # For Claude Code
-npx skills add <your-github-username>/video-effects -a claude-code
+npx skills add sinhnguyen777/video-effects-viral -a claude-code
 
 # For Cursor
-npx skills add <your-github-username>/video-effects -a cursor
+npx skills add sinhnguyen777/video-effects-viral -a cursor
 ```
 
 ### 2. Install globally (available in all workspaces)
 
 ```bash
-npx skills add <your-github-username>/video-effects -g
+npx skills add sinhnguyen777/video-effects-viral -g
 ```
 
 ### 3. Use temporarily without installing
 
 ```bash
-npx skills use <your-github-username>/video-effects --agent claude-code
+npx skills use sinhnguyen777/video-effects-viral --agent claude-code
 ```
 
 ### 4. How the Agent Uses It
@@ -180,6 +180,12 @@ The agent will follow the layer rules, timing, typography presets, and export sp
 - **Authenticity First**: Never use beautification filters, skin-smoothing plugins, or fake results on medical/spa before-and-after footage.
 - **Attribution**: Only use authentic, verified client testimonials.
 - **Safe Commercial Use**: Always ensure audio tracks and icons used are cleared for commercial distribution.
+
+---
+
+## 👤 Author
+
+Crafted with ❤️ by **Sinh Nguyen** ([@sinhnguyen777](https://github.com/sinhnguyen777))
 
 ---
 
