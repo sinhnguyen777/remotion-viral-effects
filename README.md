@@ -1,4 +1,4 @@
-# 🎬 Video Effects for Remotion (9:16 Shorts / Reels / TikTok)
+# 🎬 Remotion Viral Effects (9:16 Shorts / Reels / TikTok)
 
 [![Remotion](https://img.shields.io/badge/Powered%20by-Remotion-blue?style=flat-square&logo=react)](https://www.remotion.dev/)
 [![Format](https://img.shields.io/badge/Format-9%3A16%20(1080x1920)-purple?style=flat-square)](https://www.tiktok.com/)
@@ -137,7 +137,7 @@ This repository follows the open **[Agent Skills](https://skills.sh)** specifica
 ### 1. Install into your current project
 
 ```bash
-npx skills add sinhnguyen777/video-effects-viral
+npx skills add sinhnguyen777/remotion-viral-effects
 ```
 > *(The CLI will prompt you to choose the target agent environment in your project).*
 
@@ -145,22 +145,22 @@ Or install directly for a specific agent:
 
 ```bash
 # For Claude Code
-npx skills add sinhnguyen777/video-effects-viral -a claude-code
+npx skills add sinhnguyen777/remotion-viral-effects -a claude-code
 
 # For Cursor
-npx skills add sinhnguyen777/video-effects-viral -a cursor
+npx skills add sinhnguyen777/remotion-viral-effects -a cursor
 ```
 
 ### 2. Install globally (available in all workspaces)
 
 ```bash
-npx skills add sinhnguyen777/video-effects-viral -g
+npx skills add sinhnguyen777/remotion-viral-effects -g
 ```
 
 ### 3. Use temporarily without installing
 
 ```bash
-npx skills use sinhnguyen777/video-effects-viral --agent claude-code
+npx skills use sinhnguyen777/remotion-viral-effects --agent claude-code
 ```
 
 ### 4. How the Agent Uses It

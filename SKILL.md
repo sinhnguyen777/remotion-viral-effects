@@ -1,12 +1,12 @@
 ---
-name: video-effects
+name: remotion-viral-effects
 description: |
   Build short 9:16 motion graphics videos (Reels/TikTok) for spa businesses and tool-tutorial content using Remotion.
   Use when the user wants to: create text/caption effects, before-after comparisons, simulated UI overlays, CTAs, result hooks, or any transparent-layer overlay on a main video track.
   Do not use when: editing static images only, rendering non-9:16 video, or working outside the Remotion stack.
 ---
 
-# Video Effects
+# Remotion Viral Effects
 
 Build motion graphics from user-supplied assets (photos, clips, logo, voiceover, music). Never generate synthetic footage of real people.
 
